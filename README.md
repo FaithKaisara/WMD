@@ -7,4 +7,4 @@
 -GIMP- Graphical Imagie Manipulation Photoshop
 
 Collaboraters Sought
-I'm looking for collaborators to work with me on this wonderful project
+I'm looking for collaborators to work with me on this wonderful project.
